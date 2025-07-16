@@ -10,11 +10,11 @@ Lacking strength in UI design 😅😅😅
 I specialize in *software development* for different purposes. Starting from some basic WinForms application and ending something more complicated like AI application.
 
 🛠️ Technologies I’m working with:
--C# / .NET Core
--Python
--WPF, .NET MAUI
--AI
--And always exploring more...
+- C# / .NET Core
+- Python
+- WPF, .NET MAUI
+- AI
+- And always exploring more...
 
 ## Always ready to collaborate with different people andbuild something beatiful (and to learn of course)!
 
