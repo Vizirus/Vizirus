@@ -1,12 +1,12 @@
-#Hello there!
+# Hello there!
 
-##Who am I?
+# #Who am I?
 My name is **Artem** and I am here to show what I can!
 **Highly motivated**, slightly lazy but pationed software developer who likes to create **quality** software!
 I would like to consider software development not as a _science_, but as an *art*!
 Lacking strength in UI design 😅😅😅
 
-#What I am doing?
+## What I am doing?
 I specialize in *software development* for different purposes. Starting from some basic WinForms application and ending something more complicated like AI application.
 
 🛠️ Technologies I’m working with:
@@ -16,7 +16,7 @@ I specialize in *software development* for different purposes. Starting from som
 -AI
 -And always exploring more...
 
-##Always ready to collaborate with different people andbuild something beatiful (and to learn of course)!
+## Always ready to collaborate with different people andbuild something beatiful (and to learn of course)!
 
 
 <!---
