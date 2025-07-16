@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @Vizirus
-- 👀 I’m interested in C# software development
-- 🌱 I’m currently learning .NET, WPF, .NET MAUI
-- 💞️ I’m looking to collaborate with everyone who want it
+#Hello there!
+
+##Who am I?
+My name is **Artem** and I am here to show what I can!
+**Highly motivated**, slightly lazy but pationed software developer who likes to create **quality** software!
+I would like to consider software development not as a _science_, but as an *art*!
+Lacking strength in UI design 😅😅😅
+
+#What I am doing?
+I specialize in *software development* for different purposes. Starting from some basic WinForms application and ending something more complicated like AI application.
+
+🛠️ Technologies I’m working with:
+-C# / .NET Core
+-Python
+-WPF, .NET MAUI
+-AI
+-And always exploring more...
+
+##Always ready to collaborate with different people andbuild something beatiful (and to learn of course)!
+
 
 <!---
 Vizirus/Vizirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
