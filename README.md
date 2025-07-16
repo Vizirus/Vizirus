@@ -1,6 +1,6 @@
 # Hello there!
 
-# #Who am I?
+## Who am I?
 My name is **Artem** and I am here to show what I can!
 **Highly motivated**, slightly lazy but pationed software developer who likes to create **quality** software!
 I would like to consider software development not as a _science_, but as an *art*!
